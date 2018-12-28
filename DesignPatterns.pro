@@ -5,4 +5,4 @@ SUBDIRS = AbstractFactory \
           AbstractMethod \
           Adapter \
           Bridge \
-          Composite \
+          Decorator \
